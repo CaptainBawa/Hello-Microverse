@@ -102,7 +102,6 @@ To run the project, execute the following command:
 
 - GitHub: [@githubhandle](https://github.com/CaptainBawa)
 - Twitter: [@twitterhandle](https://twitter.com/BawaCollins)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/captainbawa)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
